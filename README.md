@@ -1,2 +1,2 @@
 # flights-agent
-AI Agent to help you travel in the cheapest price possible.
+AI Agent to help you travel at the tips of your fingure tips
